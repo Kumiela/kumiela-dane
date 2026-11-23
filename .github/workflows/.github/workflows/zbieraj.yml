@@ -1,1 +1,38 @@
+name: Zbieraj dane Kumieli
 
+# GitHub uruchamia harmonogram "co 15 minut" zwykle tylko co 60–90 minut.
+# Dlatego jeden przebieg trwa ok. 70 minut i sam pobiera dane co 15 minut.
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zbieraj
+  cancel-in-progress: false
+
+jobs:
+  zbieraj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 85
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pobieraj co 15 minut i zapisuj
+        run: |
+          git config user.name "zbieracz-kumieli"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git pull -q --rebase || true
+            python3 zbieraj.py || echo "zbieraj.py zakończył się błędem"
+            git add -A dane archiwum
+            if git diff --cached --quiet; then
+              echo "Brak zmian"
+            else
+              git commit -q -m "dane $(date -u +%Y-%m-%dT%H:%MZ)"
+              git pull -q --rebase && git push -q || echo "Nie udało się wysłać, spróbuję w następnej rundzie"
+            fi
+            if [ "$i" -lt 6 ]; then sleep 840; fi
+          done
