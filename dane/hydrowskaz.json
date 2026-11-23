@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-23T19:50:11Z",
+ "pobrano": "2026-11-23T19:59:03Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-23",
@@ -38,8 +38,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.99,
-     "czas": "2026-11-23 20:30",
+     "value": 6,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     }
    ]
@@ -55,8 +55,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.96,
-     "czas": "2026-11-23 20:30",
+     "value": 5.97,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     }
    ]
@@ -72,8 +72,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.95,
-     "czas": "2026-11-23 20:30",
+     "value": 5.91,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     }
    ]
@@ -94,13 +94,6 @@
      "data": "2026-11-23"
     },
     {
-     "czujnik": "Poziom wody w m n.p.m",
-     "jednostka": "m n.p.m",
-     "value": 115.47,
-     "czas": "2026-11-23 20:45",
-     "data": "2026-11-23"
-    },
-    {
      "czujnik": "Intensywność opadu",
      "jednostka": "mm/h",
      "value": 0,
@@ -111,6 +104,13 @@
      "czujnik": "Suma opadu",
      "jednostka": "mm",
      "value": 470.82,
+     "czas": "2026-11-23 20:45",
+     "data": "2026-11-23"
+    },
+    {
+     "czujnik": "Poziom wody w m n.p.m",
+     "jednostka": "m n.p.m",
+     "value": 115.47,
      "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     }
@@ -127,8 +127,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 1.77,
-     "czas": "2026-11-23 20:30",
+     "value": 1.78,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     }
    ]
@@ -144,8 +144,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 0.96,
-     "czas": "2026-11-23 20:30",
+     "value": 0.98,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     }
    ]
@@ -209,22 +209,22 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.96,
-     "czas": "2026-11-23 20:30",
+     "value": 5.95,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     },
     {
      "czujnik": "Prędkość wiatru",
      "jednostka": "m/s",
-     "value": 3.9,
-     "czas": "2026-11-23 20:30",
+     "value": 4.8,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     },
     {
      "czujnik": "Kierunek wiatru",
      "jednostka": "°",
-     "value": 92.3,
-     "czas": "2026-11-23 20:30",
+     "value": 72.1,
+     "czas": "2026-11-23 20:45",
      "data": "2026-11-23"
     }
    ]
