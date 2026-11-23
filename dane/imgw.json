@@ -1,55 +1,55 @@
 {
- "pobrano": "2026-11-23T12:59:02Z",
+ "pobrano": "2026-11-23T14:26:42Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-23T12:50:00Z",
-   "stan_cm": 581.0,
+   "czas": "2026-11-23T14:20:00Z",
+   "stan_cm": 583.0,
    "ostrz": 590.0,
    "alarm": 610.0
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-23T12:50:00Z",
-   "stan_cm": 584.0,
+   "czas": "2026-11-23T14:20:00Z",
+   "stan_cm": 585.0,
    "ostrz": null,
    "alarm": null
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-23T12:50:00Z",
-   "stan_cm": 580.0,
+   "czas": "2026-11-23T14:20:00Z",
+   "stan_cm": 586.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-23T12:50:00Z",
+   "czas": "2026-11-23T14:20:00Z",
    "stan_cm": 571.0,
    "ostrz": 590.0,
    "alarm": 630.0
   }
  },
  "meteo": {
-  "opad_3h": 2.5,
-  "opad_6h": 3.3,
-  "opad_12h": 3.3,
-  "opad_24h": 3.3,
-  "opad_1h": 0.5,
-  "opad_czas": "2026-11-23T12:00:00Z",
-  "temp_powietrza": "2.5",
-  "temp_powietrza_czas": "2026-11-23T12:10:00Z",
-  "temp_gruntu": "4",
-  "temp_gruntu_czas": "2026-11-23T12:40:00Z",
-  "wiatr_sredni": "2.8",
-  "wiatr_sredni_czas": "2026-11-23T12:40:00Z",
+  "opad_3h": 1.1,
+  "opad_6h": 3.1,
+  "opad_12h": 3.1,
+  "opad_24h": 3.1,
+  "opad_1h": 0.3,
+  "opad_czas": "2026-11-23T14:00:00Z",
+  "temp_powietrza": "2.2",
+  "temp_powietrza_czas": "2026-11-23T14:10:00Z",
+  "temp_gruntu": "2",
+  "temp_gruntu_czas": "2026-11-23T14:10:00Z",
+  "wiatr_sredni": "3",
+  "wiatr_sredni_czas": "2026-11-23T14:10:00Z",
   "wiatr_max": "5.6",
-  "wiatr_max_czas": "2026-11-23T12:40:00Z",
-  "wiatr_kierunek": "279",
-  "wiatr_kierunek_czas": "2026-11-23T12:40:00Z",
-  "wilgotnosc": "93.2",
-  "wilgotnosc_czas": "2026-11-23T12:40:00Z",
-  "opad_10min": "0",
-  "opad_10min_czas": "2026-11-23T12:40:00Z"
+  "wiatr_max_czas": "2026-11-23T14:10:00Z",
+  "wiatr_kierunek": "256",
+  "wiatr_kierunek_czas": "2026-11-23T14:10:00Z",
+  "wilgotnosc": "93.9",
+  "wilgotnosc_czas": "2026-11-23T14:10:00Z",
+  "opad_10min": "0.2",
+  "opad_10min_czas": "2026-11-23T14:00:00Z"
  }
 }
