@@ -1,0 +1,17 @@
+zrodlo,stacja_id,nazwa,szerokosc,dlugosc,wielkosci,uwagi
+hydrowskaz,138,ATSHM01 - jezioro Drużno,54.120982,19.430573,"Intensywnosc opadu [mm/h]; Suma opadu [mm]",
+hydrowskaz,139,ATSHM02 - Dojazdowa,54.146228,19.392668,"Poziom wody [m]",
+hydrowskaz,130,ATSHM03 - Most Unii,54.173094,19.387855,"Poziom wody [m]",
+hydrowskaz,131,ATSHM04 - Nowakowo - Batorowo,54.230526,19.362887,"Poziom wody [m]",
+hydrowskaz,127,ATSHM05 - jezioro Goplanica,54.207452,19.471887,"Poziom wody [m]; Intensywność opadu [mm/h]; Suma opadu [mm]; Poziom wody w m n.p.m [m n.p.m]",
+hydrowskaz,132,ATSHM06 - Marymoncka,54.174981,19.431843,"Poziom wody [m]",
+hydrowskaz,133,ATSHM07 - Górnośląska,54.165396,19.416308,"Poziom wody [m]",
+hydrowskaz,136,ATSHM08 - Piaski,54.427806,19.598457,"Poziom wody [m]; Prędkość wiatru [m/s]; Kierunek wiatru [°]",
+hydrowskaz,137,ATSHM09 - Mazurska,54.191028,19.383733,"Poziom wody [m]",
+hydrowskaz,135,ATSHM10 - Ujście,54.256558,19.384908,"Poziom wody [m]; Prędkość wiatru [m/s]; Kierunek wiatru [°]",
+hydrowskaz,338,ATSHM11 - Związku Jaszczurczego,54.156632,19.410857,"Poziom wody [m]; Temperatura czujnika [°C]; Poziom wody w m n.p.m. [m n.p.m]",
+imgw,154190060,Elbląg (rz. Elbląg),,,"stan_wody [cm]","stan ostrzegawczy 590 cm, alarmowy 610 cm (wg IMGW, stan na 2026-11-23)"
+imgw,154190080,Żukowo (jez. Drużno),,,"stan_wody [cm]","IMGW nie podaje stanów ostrzegawczego i alarmowego"
+imgw,154190050,Nowe Batorowo (Zalew Wiślany),,,"stan_wody [cm]","stan ostrzegawczy 590 cm, alarmowy 630 cm (wg IMGW, stan na 2026-11-23)"
+imgw,154190090,Tolkmicko (Zalew Wiślany),,,"stan_wody [cm]","stan ostrzegawczy 590 cm, alarmowy 630 cm (wg IMGW, stan na 2026-11-23)"
+imgw,254190190,Elbląg (stacja meteorologiczna),,,"opad_10min, opad_1h, opad_3h, opad_6h, opad_12h, opad_24h, opad_doba_do_6utc [mm]; temp_powietrza, temp_gruntu [C]; wiatr_sredni, wiatr_max [m/s]; wiatr_kierunek [deg]; wilgotnosc [%]",
