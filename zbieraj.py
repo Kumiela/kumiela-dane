@@ -7,7 +7,7 @@ Co 15 minut (GitHub Actions) pobiera:
 Zapisuje:
   dane/hydrowskaz.json            – ostatni odczyt Hydrowskazu (czyta go strona o Kumieli)
   dane/imgw.json                  – ostatni odczyt IMGW
-  archiwum/hydrowskaz/RRRR-MM-DD.jsonl – każdy NOWY stan Hydrowskazu (jedna linia = jeden odczyt)
+  archiwum/hydrowskaz/RRRR-MM.csv – pomiary wszystkich czujników Hydrowskazu bez powtórzeń
   archiwum/imgw/RRRR-MM.csv       – pomiary IMGW bez powtórzeń
   dane/log.json                   – co się udało w ostatnim przebiegu
 Źródła danych: IMGW-PIB (dane publiczne), Hydrowskaz Miasta Elbląg.
@@ -77,19 +77,37 @@ def hydrowskaz():
     save_json("dane/hydrowskaz.json", latest)
     if os.path.exists("dane/hydrowskaz_blad.txt"):
         os.remove("dane/hydrowskaz_blad.txt")
-    # archiwum: tylko gdy stan się zmienił
-    digest = hashlib.sha256(json.dumps(stations, sort_keys=True).encode()).hexdigest()
-    shafile = "dane/hydrowskaz.sha256"
-    old = open(shafile).read().strip() if os.path.exists(shafile) else ""
-    if digest != old:
-        day = NOW.strftime("%Y-%m-%d")
-        os.makedirs("archiwum/hydrowskaz", exist_ok=True)
-        with open(f"archiwum/hydrowskaz/{day}.jsonl", "a", encoding="utf-8") as f:
-            f.write(json.dumps({"pobrano": LOG["pobrano"], "Stations": stations}, ensure_ascii=False) + "\n")
-        with open(shafile, "w") as f:
-            f.write(digest)
-        return f"ok, {len(stations)} stacji, nowy stan zapisany"
-    return f"ok, {len(stations)} stacji, bez zmian"
+    # archiwum: zwarty CSV, jeden wiersz = jeden pomiar jednego czujnika, bez powtórzeń
+    from zoneinfo import ZoneInfo
+    waw = ZoneInfo("Europe/Warsaw")
+    rows = []
+    for key, st in stations.items():
+        if not isinstance(st, dict):
+            continue
+        for s in st.get("sensory") or []:
+            if s.get("value") is None or not s.get("czas"):
+                continue
+            try:
+                t = datetime.datetime.strptime(s["czas"], "%Y-%m-%d %H:%M").replace(tzinfo=waw)
+                t = t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+            except ValueError:
+                continue
+            rows.append([t, key, st.get("stacja", ""), s.get("czujnik", ""), s["value"], s.get("jednostka", "")])
+    path = "archiwum/hydrowskaz/" + NOW.strftime("%Y-%m") + ".csv"
+    os.makedirs("archiwum/hydrowskaz", exist_ok=True)
+    seen = set()
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            for r in csv.reader(f):
+                seen.add((r[0], r[1], r[3]) if len(r) > 3 else tuple(r))
+    new = [r for r in rows if (r[0], str(r[1]), r[3]) not in seen]
+    header = not os.path.exists(path)
+    with open(path, "a", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        if header:
+            w.writerow(["czas_utc", "stacja_id", "stacja", "czujnik", "wartosc", "jednostka"])
+        w.writerows(new)
+    return f"ok, {len(rows)} odczytów czujników, {len(new)} nowych w archiwum"
 
 
 # ---------- IMGW ----------
