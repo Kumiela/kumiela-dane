@@ -9,6 +9,7 @@ Zapisuje:
   dane/imgw.json                  – ostatni odczyt IMGW
   archiwum/hydrowskaz/RRRR-MM.csv – pomiary wszystkich czujników Hydrowskazu bez powtórzeń
   archiwum/imgw/RRRR-MM.csv       – pomiary IMGW bez powtórzeń
+  dane/opad_hydrowskaz.json      – opad 1/3/6/24 h przy Goplanicy (127) i Drużnie (138), z licznika
   dane/log.json                   – co się udało w ostatnim przebiegu
 Źródła danych: IMGW-PIB (dane publiczne), Hydrowskaz Miasta Elbląg.
 """
@@ -107,7 +108,43 @@ def hydrowskaz():
         if header:
             w.writerow(["czas_utc", "stacja_id", "stacja", "czujnik", "wartosc", "jednostka"])
         w.writerows(new)
+    opad_z_licznika(now_rows=rows)
     return f"ok, {len(rows)} odczytów czujników, {len(new)} nowych w archiwum"
+
+
+def opad_z_licznika(now_rows):
+    """Hydrowskaz podaje „Suma opadu” jako licznik narastający. Liczy opad za 1, 6 i 24 h
+    z różnic odczytów w archiwum (bieżący i poprzedni miesiąc). Zapis: dane/opad_hydrowskaz.json"""
+    first = NOW.replace(day=1)
+    prev = (first - datetime.timedelta(days=1)).strftime("%Y-%m")
+    series = {}
+    for m in (prev, NOW.strftime("%Y-%m")):
+        path = f"archiwum/hydrowskaz/{m}.csv"
+        if not os.path.exists(path):
+            continue
+        with open(path, encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                if r.get("czujnik", "").startswith("Suma opadu"):
+                    try:
+                        t = datetime.datetime.strptime(r["czas_utc"], "%Y-%m-%dT%H:%MZ").replace(tzinfo=datetime.timezone.utc)
+                        series.setdefault(r["stacja_id"], {})[t] = float(r["wartosc"])
+                    except (ValueError, KeyError):
+                        pass
+    out = {"pobrano": LOG["pobrano"], "uwaga": "opad liczony z różnic licznika „Suma opadu” Hydrowskazu; null = za mało danych albo licznik wyzerowany"}
+    for sid, pts in series.items():
+        ts = sorted(pts)
+        last_t, last_v = ts[-1], pts[ts[-1]]
+        st = {"czas": last_t.strftime("%Y-%m-%dT%H:%MZ"), "licznik_mm": last_v}
+        for h in (1, 3, 6, 24):
+            start = last_t - datetime.timedelta(hours=h)
+            before = [t for t in ts if t <= start]
+            if not before or (start - before[-1]) > datetime.timedelta(minutes=30):
+                st[f"opad_{h}h"] = None
+                continue
+            d = last_v - pts[before[-1]]
+            st[f"opad_{h}h"] = round(d, 2) if d >= 0 else None
+        out[sid] = st
+    save_json("dane/opad_hydrowskaz.json", out)
 
 
 # ---------- IMGW ----------
