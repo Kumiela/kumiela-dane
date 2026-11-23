@@ -1,55 +1,55 @@
 {
- "pobrano": "2026-11-23T09:50:19Z",
+ "pobrano": "2026-11-23T10:56:47Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-23T09:40:00Z",
-   "stan_cm": 579.0,
+   "czas": "2026-11-23T10:50:00Z",
+   "stan_cm": 580.0,
    "ostrz": 590.0,
    "alarm": 610.0
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-23T09:40:00Z",
+   "czas": "2026-11-23T10:50:00Z",
    "stan_cm": 583.0,
    "ostrz": null,
    "alarm": null
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-23T09:40:00Z",
-   "stan_cm": 581.0,
+   "czas": "2026-11-23T10:40:00Z",
+   "stan_cm": 580.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-23T09:40:00Z",
-   "stan_cm": 569.0,
+   "czas": "2026-11-23T10:40:00Z",
+   "stan_cm": 570.0,
    "ostrz": 590.0,
    "alarm": 630.0
   }
  },
  "meteo": {
-  "opad_3h": 0.8,
-  "opad_6h": 5.3,
-  "opad_12h": 5.3,
-  "opad_24h": 5.3,
-  "opad_1h": 0.0,
-  "opad_czas": "2026-11-23T09:00:00Z",
-  "temp_powietrza": "2.7",
-  "temp_powietrza_czas": "2026-11-23T09:10:00Z",
-  "temp_gruntu": "3.5",
-  "temp_gruntu_czas": "2026-11-23T09:20:00Z",
-  "wiatr_sredni": "3",
-  "wiatr_sredni_czas": "2026-11-23T09:20:00Z",
-  "wiatr_max": "5.2",
-  "wiatr_max_czas": "2026-11-23T09:20:00Z",
-  "wiatr_kierunek": "288",
-  "wiatr_kierunek_czas": "2026-11-23T09:20:00Z",
-  "wilgotnosc": "95.1",
-  "wilgotnosc_czas": "2026-11-23T09:20:00Z",
-  "opad_10min": "0",
-  "opad_10min_czas": "2026-11-23T09:00:00Z"
+  "opad_3h": 1.0,
+  "opad_6h": 4.9,
+  "opad_12h": 4.9,
+  "opad_24h": 4.9,
+  "opad_1h": 0.7,
+  "opad_czas": "2026-11-23T10:00:00Z",
+  "temp_powietrza": "2.4",
+  "temp_powietrza_czas": "2026-11-23T10:10:00Z",
+  "temp_gruntu": "2.8",
+  "temp_gruntu_czas": "2026-11-23T10:40:00Z",
+  "wiatr_sredni": "1.8",
+  "wiatr_sredni_czas": "2026-11-23T10:40:00Z",
+  "wiatr_max": "3.7",
+  "wiatr_max_czas": "2026-11-23T10:40:00Z",
+  "wiatr_kierunek": "293",
+  "wiatr_kierunek_czas": "2026-11-23T10:40:00Z",
+  "wilgotnosc": "94.9",
+  "wilgotnosc_czas": "2026-11-23T10:40:00Z",
+  "opad_10min": "0.4",
+  "opad_10min_czas": "2026-11-23T10:30:00Z"
  }
 }
