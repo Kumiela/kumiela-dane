@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-23T19:46:13Z",
+ "pobrano": "2026-11-23T19:50:11Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
@@ -24,7 +24,7 @@
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-23T19:30:00Z",
+   "czas": "2026-11-23T19:40:00Z",
    "stan_cm": 580.0,
    "ostrz": 590.0,
    "alarm": 630.0
@@ -49,7 +49,7 @@
   "wiatr_kierunek_czas": "2026-11-23T19:30:00Z",
   "wilgotnosc": "95.6",
   "wilgotnosc_czas": "2026-11-23T19:30:00Z",
-  "opad_10min": "0.3",
-  "opad_10min_czas": "2026-11-23T19:20:00Z"
+  "opad_10min": "1.6",
+  "opad_10min_czas": "2026-11-23T19:30:00Z"
  }
 }
