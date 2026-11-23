@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-23T19:45:13Z",
+ "pobrano": "2026-11-23T19:46:13Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
@@ -33,8 +33,8 @@
  "meteo": {
   "opad_3h": 3.8,
   "opad_6h": 8.4,
-  "opad_12h": 11.5,
-  "opad_24h": 22.8,
+  "opad_12h": 8.4,
+  "opad_24h": 8.4,
   "opad_1h": 1.7,
   "opad_czas": "2026-11-23T19:00:00Z",
   "temp_powietrza": "3",
