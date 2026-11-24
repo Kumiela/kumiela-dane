@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-24T07:48:10Z",
+ "pobrano": "2026-11-24T07:48:26Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-24",
@@ -101,16 +101,16 @@
      "data": "2026-11-24"
     },
     {
-     "czujnik": "Intensywność opadu",
-     "jednostka": "mm/h",
-     "value": 0,
+     "czujnik": "Suma opadu",
+     "jednostka": "mm",
+     "value": 482.04,
      "czas": "2026-11-24 08:30",
      "data": "2026-11-24"
     },
     {
-     "czujnik": "Suma opadu",
-     "jednostka": "mm",
-     "value": 482.04,
+     "czujnik": "Intensywność opadu",
+     "jednostka": "mm/h",
+     "value": 0,
      "czas": "2026-11-24 08:30",
      "data": "2026-11-24"
     }
