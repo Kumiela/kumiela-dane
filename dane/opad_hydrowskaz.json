@@ -1,20 +1,20 @@
 {
- "pobrano": "2026-11-24T10:25:30Z",
+ "pobrano": "2026-11-24T10:39:37Z",
  "uwaga": "opad liczony z różnic licznika „Suma opadu” Hydrowskazu; null = za mało danych albo licznik wyzerowany",
  "138": {
-  "czas": "2026-11-24T10:15Z",
-  "licznik_mm": 20.45,
-  "opad_1h": 0.25,
-  "opad_3h": 1.78,
-  "opad_6h": 3.76,
+  "czas": "2026-11-24T10:30Z",
+  "licznik_mm": 20.46,
+  "opad_1h": 0.05,
+  "opad_3h": 1.31,
+  "opad_6h": 3.54,
   "opad_24h": null
  },
  "127": {
-  "czas": "2026-11-24T10:15Z",
-  "licznik_mm": 482.82,
-  "opad_1h": 0.0,
-  "opad_3h": 1.07,
-  "opad_6h": 3.47,
-  "opad_24h": 25.65
+  "czas": "2026-11-24T10:30Z",
+  "licznik_mm": 483.04,
+  "opad_1h": 0.22,
+  "opad_3h": 1.0,
+  "opad_6h": 3.65,
+  "opad_24h": null
  }
 }
