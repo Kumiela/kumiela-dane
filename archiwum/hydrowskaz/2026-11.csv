@@ -1432,3 +1432,24 @@ czas_utc,stacja_id,stacja,czujnik,wartosc,jednostka
 2026-11-24T08:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody,0.48,m
 2026-11-24T08:45Z,338,ATSHM11 - Związku Jaszczurczego,Temperatura czujnika,4,°C
 2026-11-24T08:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody w m n.p.m.,4.32,m n.p.m
+2026-11-24T09:01Z,138,ATSHM01 - jezioro Drużno,Intensywnosc opadu,0,mm/h
+2026-11-24T09:00Z,138,ATSHM01 - jezioro Drużno,Suma opadu,19.91,mm
+2026-11-24T09:00Z,139,ATSHM02 - Dojazdowa,Poziom wody,6.06,m
+2026-11-24T09:00Z,130,ATSHM03 - Most Unii,Poziom wody,5.93,m
+2026-11-24T09:00Z,131,ATSHM04 - Nowakowo - Batorowo,Poziom wody,5.91,m
+2026-11-24T09:00Z,127,ATSHM05 - jezioro Goplanica,Poziom wody,2,m
+2026-11-24T09:00Z,127,ATSHM05 - jezioro Goplanica,Poziom wody w m n.p.m,115.6,m n.p.m
+2026-11-24T09:00Z,127,ATSHM05 - jezioro Goplanica,Intensywność opadu,0,mm/h
+2026-11-24T09:00Z,127,ATSHM05 - jezioro Goplanica,Suma opadu,482.73,mm
+2026-11-24T09:00Z,132,ATSHM06 - Marymoncka,Poziom wody,1.8,m
+2026-11-24T09:00Z,133,ATSHM07 - Górnośląska,Poziom wody,0.98,m
+2026-11-24T09:00Z,136,ATSHM08 - Piaski,Poziom wody,5.79,m
+2026-11-24T09:00Z,136,ATSHM08 - Piaski,Prędkość wiatru,4,m/s
+2026-11-24T09:00Z,136,ATSHM08 - Piaski,Kierunek wiatru,351.7,°
+2026-11-24T09:00Z,137,ATSHM09 - Mazurska,Poziom wody,1.15,m
+2026-11-24T09:00Z,135,ATSHM10 - Ujście,Poziom wody,5.97,m
+2026-11-24T09:00Z,135,ATSHM10 - Ujście,Prędkość wiatru,7.19,m/s
+2026-11-24T09:00Z,135,ATSHM10 - Ujście,Kierunek wiatru,135.1,°
+2026-11-24T09:00Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody,0.47,m
+2026-11-24T09:00Z,338,ATSHM11 - Związku Jaszczurczego,Temperatura czujnika,4,°C
+2026-11-24T09:00Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody w m n.p.m.,4.31,m n.p.m
