@@ -1,31 +1,31 @@
 {
- "pobrano": "2026-11-24T18:57:44Z",
+ "pobrano": "2026-11-24T19:11:53Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-24T18:50:00Z",
-   "stan_cm": 587.0,
+   "czas": "2026-11-24T19:00:00Z",
+   "stan_cm": 585.0,
    "ostrz": 590.0,
    "alarm": 610.0
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-24T18:00:00Z",
+   "czas": "2026-11-24T19:00:00Z",
    "stan_cm": 606.0,
    "ostrz": null,
    "alarm": null
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-24T18:50:00Z",
+   "czas": "2026-11-24T19:00:00Z",
    "stan_cm": 583.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-24T18:40:00Z",
-   "stan_cm": 571.0,
+   "czas": "2026-11-24T19:00:00Z",
+   "stan_cm": 568.0,
    "ostrz": 590.0,
    "alarm": 630.0
   }
@@ -33,23 +33,23 @@
  "meteo": {
   "opad_3h": 0.0,
   "opad_6h": 1.1,
-  "opad_12h": 1.1,
-  "opad_24h": 1.1,
+  "opad_12h": 6.5,
+  "opad_24h": 20.5,
   "opad_1h": 0.0,
   "opad_czas": "2026-11-24T18:00:00Z",
   "temp_powietrza": "2.4",
   "temp_powietrza_czas": "2026-11-24T18:10:00Z",
-  "temp_gruntu": "1.2",
-  "temp_gruntu_czas": "2026-11-24T18:40:00Z",
-  "wiatr_sredni": "3.2",
-  "wiatr_sredni_czas": "2026-11-24T18:40:00Z",
-  "wiatr_max": "6.3",
-  "wiatr_max_czas": "2026-11-24T18:40:00Z",
-  "wiatr_kierunek": "295",
-  "wiatr_kierunek_czas": "2026-11-24T18:40:00Z",
-  "wilgotnosc": "92",
-  "wilgotnosc_czas": "2026-11-24T18:40:00Z",
+  "temp_gruntu": "1.5",
+  "temp_gruntu_czas": "2026-11-24T18:50:00Z",
+  "wiatr_sredni": "3.3",
+  "wiatr_sredni_czas": "2026-11-24T18:50:00Z",
+  "wiatr_max": "6.7",
+  "wiatr_max_czas": "2026-11-24T18:50:00Z",
+  "wiatr_kierunek": "290",
+  "wiatr_kierunek_czas": "2026-11-24T18:50:00Z",
+  "wilgotnosc": "91.5",
+  "wilgotnosc_czas": "2026-11-24T18:50:00Z",
   "opad_10min": "0",
-  "opad_10min_czas": "2026-11-24T18:30:00Z"
+  "opad_10min_czas": "2026-11-24T18:50:00Z"
  }
 }
