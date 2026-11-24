@@ -1,55 +1,55 @@
 {
- "pobrano": "2026-11-24T04:01:22Z",
+ "pobrano": "2026-11-24T04:15:31Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-24T03:50:00Z",
-   "stan_cm": 588.0,
+   "czas": "2026-11-24T04:00:00Z",
+   "stan_cm": 587.0,
    "ostrz": 590.0,
    "alarm": 610.0
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-24T03:00:00Z",
-   "stan_cm": 595.0,
+   "czas": "2026-11-24T04:00:00Z",
+   "stan_cm": 596.0,
    "ostrz": null,
    "alarm": null
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-24T03:50:00Z",
-   "stan_cm": 588.0,
+   "czas": "2026-11-24T04:00:00Z",
+   "stan_cm": 589.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-24T03:50:00Z",
-   "stan_cm": 577.0,
+   "czas": "2026-11-24T04:00:00Z",
+   "stan_cm": 578.0,
    "ostrz": 590.0,
    "alarm": 630.0
   }
  },
  "meteo": {
-  "opad_3h": 1.7,
-  "opad_6h": 4.4,
-  "opad_12h": 4.4,
-  "opad_24h": 4.4,
-  "opad_1h": 1.1,
-  "opad_czas": "2026-11-24T03:00:00Z",
+  "opad_3h": 2.4,
+  "opad_6h": 5.1,
+  "opad_12h": 5.1,
+  "opad_24h": 5.1,
+  "opad_1h": 0.7,
+  "opad_czas": "2026-11-24T04:00:00Z",
   "temp_powietrza": "1.8",
   "temp_powietrza_czas": "2026-11-24T03:10:00Z",
-  "temp_gruntu": "1.5",
-  "temp_gruntu_czas": "2026-11-24T03:40:00Z",
-  "wiatr_sredni": "0.9",
-  "wiatr_sredni_czas": "2026-11-24T03:40:00Z",
-  "wiatr_max": "1.2",
-  "wiatr_max_czas": "2026-11-24T03:40:00Z",
-  "wiatr_kierunek": "332",
-  "wiatr_kierunek_czas": "2026-11-24T03:40:00Z",
-  "wilgotnosc": "97",
-  "wilgotnosc_czas": "2026-11-24T03:40:00Z",
-  "opad_10min": "0.3",
-  "opad_10min_czas": "2026-11-24T03:40:00Z"
+  "temp_gruntu": "1.6",
+  "temp_gruntu_czas": "2026-11-24T04:00:00Z",
+  "wiatr_sredni": "1.6",
+  "wiatr_sredni_czas": "2026-11-24T04:00:00Z",
+  "wiatr_max": "2.3",
+  "wiatr_max_czas": "2026-11-24T04:00:00Z",
+  "wiatr_kierunek": "245",
+  "wiatr_kierunek_czas": "2026-11-24T04:00:00Z",
+  "wilgotnosc": "96.7",
+  "wilgotnosc_czas": "2026-11-24T04:00:00Z",
+  "opad_10min": "0.1",
+  "opad_10min_czas": "2026-11-24T03:50:00Z"
  }
 }
