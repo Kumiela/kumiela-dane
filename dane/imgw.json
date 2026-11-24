@@ -1,55 +1,55 @@
 {
- "pobrano": "2026-11-24T04:58:16Z",
+ "pobrano": "2026-11-24T05:12:26Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-24T04:40:00Z",
-   "stan_cm": 590.0,
+   "czas": "2026-11-24T05:00:00Z",
+   "stan_cm": 592.0,
    "ostrz": 590.0,
    "alarm": 610.0
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-24T04:00:00Z",
-   "stan_cm": 596.0,
+   "czas": "2026-11-24T05:00:00Z",
+   "stan_cm": 597.0,
    "ostrz": null,
    "alarm": null
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-24T04:40:00Z",
+   "czas": "2026-11-24T05:00:00Z",
    "stan_cm": 592.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-24T04:50:00Z",
-   "stan_cm": 574.0,
+   "czas": "2026-11-24T05:00:00Z",
+   "stan_cm": 576.0,
    "ostrz": 590.0,
    "alarm": 630.0
   }
  },
  "meteo": {
   "opad_3h": 2.4,
-  "opad_6h": 5.1,
-  "opad_12h": 5.1,
-  "opad_24h": 5.1,
-  "opad_1h": 0.7,
-  "opad_czas": "2026-11-24T04:00:00Z",
+  "opad_6h": 4.5,
+  "opad_12h": 16.3,
+  "opad_24h": 26.0,
+  "opad_1h": 0.6,
+  "opad_czas": "2026-11-24T05:00:00Z",
   "temp_powietrza": "2.1",
   "temp_powietrza_czas": "2026-11-24T04:10:00Z",
-  "temp_gruntu": "1.9",
-  "temp_gruntu_czas": "2026-11-24T04:40:00Z",
+  "temp_gruntu": "2",
+  "temp_gruntu_czas": "2026-11-24T04:50:00Z",
   "wiatr_sredni": "1.1",
-  "wiatr_sredni_czas": "2026-11-24T04:40:00Z",
-  "wiatr_max": "1.8",
-  "wiatr_max_czas": "2026-11-24T04:40:00Z",
-  "wiatr_kierunek": "36",
-  "wiatr_kierunek_czas": "2026-11-24T04:40:00Z",
+  "wiatr_sredni_czas": "2026-11-24T04:50:00Z",
+  "wiatr_max": "2.1",
+  "wiatr_max_czas": "2026-11-24T04:50:00Z",
+  "wiatr_kierunek": "22",
+  "wiatr_kierunek_czas": "2026-11-24T04:50:00Z",
   "wilgotnosc": "97.2",
-  "wilgotnosc_czas": "2026-11-24T04:40:00Z",
+  "wilgotnosc_czas": "2026-11-24T04:50:00Z",
   "opad_10min": "0.1",
-  "opad_10min_czas": "2026-11-24T04:40:00Z"
+  "opad_10min_czas": "2026-11-24T04:50:00Z"
  }
 }
