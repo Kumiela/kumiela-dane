@@ -918,3 +918,13 @@ czas_utc,stacja_id,stacja,czujnik,wartosc,jednostka
 2026-11-24T02:30Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody,0.56,m
 2026-11-24T02:30Z,338,ATSHM11 - Związku Jaszczurczego,Temperatura czujnika,2,°C
 2026-11-24T02:30Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody w m n.p.m.,4.4,m n.p.m
+2026-11-24T02:45Z,138,ATSHM01 - jezioro Drużno,Intensywnosc opadu,0,mm/h
+2026-11-24T02:45Z,138,ATSHM01 - jezioro Drużno,Suma opadu,16.01,mm
+2026-11-24T02:45Z,127,ATSHM05 - jezioro Goplanica,Poziom wody,1.93,m
+2026-11-24T02:45Z,127,ATSHM05 - jezioro Goplanica,Poziom wody w m n.p.m,115.53,m n.p.m
+2026-11-24T02:45Z,127,ATSHM05 - jezioro Goplanica,Intensywność opadu,0,mm/h
+2026-11-24T02:45Z,127,ATSHM05 - jezioro Goplanica,Suma opadu,478.51,mm
+2026-11-24T02:45Z,137,ATSHM09 - Mazurska,Poziom wody,1.16,m
+2026-11-24T02:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody,0.56,m
+2026-11-24T02:45Z,338,ATSHM11 - Związku Jaszczurczego,Temperatura czujnika,2,°C
+2026-11-24T02:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody w m n.p.m.,4.4,m n.p.m
