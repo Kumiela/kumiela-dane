@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-24T14:54:55Z",
+ "pobrano": "2026-11-24T14:57:51Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-24",
@@ -38,8 +38,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 6.09,
-     "czas": "2026-11-24 15:30",
+     "value": 6.1,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     }
    ]
@@ -55,8 +55,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.97,
-     "czas": "2026-11-24 15:30",
+     "value": 5.98,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     }
    ]
@@ -72,8 +72,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.95,
-     "czas": "2026-11-24 15:30",
+     "value": 5.93,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     }
    ]
@@ -127,8 +127,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 1.89,
-     "czas": "2026-11-24 15:30",
+     "value": 1.9,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     }
    ]
@@ -144,8 +144,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 1.01,
-     "czas": "2026-11-24 15:30",
+     "value": 1.02,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     }
    ]
@@ -161,22 +161,22 @@
     {
      "czujnik": "Kierunek wiatru",
      "jednostka": "°",
-     "value": 321.5,
-     "czas": "2026-11-24 15:30",
+     "value": 358.1,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     },
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.8,
-     "czas": "2026-11-24 15:30",
+     "value": 5.79,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     },
     {
      "czujnik": "Prędkość wiatru",
      "jednostka": "m/s",
-     "value": 9.6,
-     "czas": "2026-11-24 15:30",
+     "value": 11.19,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     }
    ]
@@ -209,22 +209,22 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.95,
-     "czas": "2026-11-24 15:30",
-     "data": "2026-11-24"
-    },
-    {
-     "czujnik": "Kierunek wiatru",
-     "jednostka": "°",
-     "value": 110,
-     "czas": "2026-11-24 15:30",
+     "value": 5.96,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     },
     {
      "czujnik": "Prędkość wiatru",
      "jednostka": "m/s",
-     "value": 10.6,
-     "czas": "2026-11-24 15:30",
+     "value": 9.19,
+     "czas": "2026-11-24 15:45",
+     "data": "2026-11-24"
+    },
+    {
+     "czujnik": "Kierunek wiatru",
+     "jednostka": "°",
+     "value": 101.6,
+     "czas": "2026-11-24 15:45",
      "data": "2026-11-24"
     }
    ]
