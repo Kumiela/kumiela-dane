@@ -1981,3 +1981,4 @@ czas_utc,zrodlo,stacja,wielkosc,wartosc,jednostka
 2026-11-25T08:50:00Z,imgw,254190190,wiatr_kierunek,230,deg
 2026-11-25T08:50:00Z,imgw,254190190,wilgotnosc,94,%
 2026-11-25T08:40:00Z,imgw,254190190,opad_10min,0.1,mm
+2026-11-25T08:50:00Z,imgw,254190190,opad_10min,0,mm

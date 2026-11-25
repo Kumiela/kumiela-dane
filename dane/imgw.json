@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-25T09:08:13Z",
+ "pobrano": "2026-11-25T09:08:27Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
@@ -49,7 +49,7 @@
   "wiatr_kierunek_czas": "2026-11-25T08:50:00Z",
   "wilgotnosc": "94",
   "wilgotnosc_czas": "2026-11-25T08:50:00Z",
-  "opad_10min": "0.1",
-  "opad_10min_czas": "2026-11-25T08:40:00Z"
+  "opad_10min": "0",
+  "opad_10min_czas": "2026-11-25T08:50:00Z"
  }
 }
