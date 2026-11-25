@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-25T21:39:19Z",
+ "pobrano": "2026-11-25T21:53:26Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-25",
@@ -15,14 +15,14 @@
      "czujnik": "Intensywnosc opadu",
      "jednostka": "mm/h",
      "value": 0,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Suma opadu",
      "jednostka": "mm",
      "value": 28,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     }
    ]
@@ -90,28 +90,28 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 2.17,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Poziom wody w m n.p.m",
      "jednostka": "m n.p.m",
      "value": 115.77,
-     "czas": "2026-11-25 22:30",
-     "data": "2026-11-25"
-    },
-    {
-     "czujnik": "Suma opadu",
-     "jednostka": "mm",
-     "value": 493.01,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Intensywność opadu",
      "jednostka": "mm/h",
      "value": 0,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
+     "data": "2026-11-25"
+    },
+    {
+     "czujnik": "Suma opadu",
+     "jednostka": "mm",
+     "value": 493.01,
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     }
    ]
@@ -193,7 +193,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 0.97,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     }
    ]
@@ -241,7 +241,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 0.27,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     },
     {
@@ -255,7 +255,7 @@
      "czujnik": "Poziom wody w m n.p.m.",
      "jednostka": "m n.p.m",
      "value": 4.11,
-     "czas": "2026-11-25 22:30",
+     "czas": "2026-11-25 22:45",
      "data": "2026-11-25"
     }
    ]
