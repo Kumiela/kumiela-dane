@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-25T22:07:32Z",
+ "pobrano": "2026-11-25T22:07:47Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
@@ -10,7 +10,7 @@
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-25T22:00:00Z",
+   "czas": "2026-11-25T21:00:00Z",
    "stan_cm": 606.0,
    "ostrz": null,
    "alarm": null
@@ -24,8 +24,8 @@
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-25T22:00:00Z",
-   "stan_cm": 543.0,
+   "czas": "2026-11-25T21:50:00Z",
+   "stan_cm": 544.0,
    "ostrz": 590.0,
    "alarm": 630.0
   }
