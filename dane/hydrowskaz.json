@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-25T02:17:19Z",
+ "pobrano": "2026-11-25T02:31:28Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-25",
@@ -15,14 +15,14 @@
      "czujnik": "Intensywnosc opadu",
      "jednostka": "mm/h",
      "value": 0,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Suma opadu",
      "jednostka": "mm",
      "value": 25.92,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -39,7 +39,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 6.02,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -55,8 +55,8 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.79,
-     "czas": "2026-11-25 03:00",
+     "value": 5.78,
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -73,7 +73,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 5.72,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -90,28 +90,28 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 2.15,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Poziom wody w m n.p.m",
      "jednostka": "m n.p.m",
      "value": 115.75,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Intensywność opadu",
      "jednostka": "mm/h",
      "value": 0,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Suma opadu",
      "jednostka": "mm",
      "value": 489.05,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -128,7 +128,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 1.59,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -145,7 +145,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 0.87,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -161,22 +161,22 @@
     {
      "czujnik": "Kierunek wiatru",
      "jednostka": "°",
-     "value": 227.6,
-     "czas": "2026-11-25 03:00",
+     "value": 294.1,
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 5.67,
-     "czas": "2026-11-25 03:00",
+     "value": 5.66,
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Prędkość wiatru",
      "jednostka": "m/s",
-     "value": 4.19,
-     "czas": "2026-11-25 03:00",
+     "value": 3.7,
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -193,7 +193,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 1.05,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -210,21 +210,21 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 5.76,
-     "czas": "2026-11-25 03:00",
-     "data": "2026-11-25"
-    },
-    {
-     "czujnik": "Prędkość wiatru",
-     "jednostka": "m/s",
-     "value": 6.5,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Kierunek wiatru",
      "jednostka": "°",
-     "value": 45.7,
-     "czas": "2026-11-25 03:00",
+     "value": 41.7,
+     "czas": "2026-11-25 03:15",
+     "data": "2026-11-25"
+    },
+    {
+     "czujnik": "Prędkość wiatru",
+     "jednostka": "m/s",
+     "value": 6.4,
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
@@ -241,21 +241,21 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 0.4,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Temperatura czujnika",
      "jednostka": "°C",
      "value": 0,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     },
     {
      "czujnik": "Poziom wody w m n.p.m.",
      "jednostka": "m n.p.m",
      "value": 4.24,
-     "czas": "2026-11-25 03:00",
+     "czas": "2026-11-25 03:15",
      "data": "2026-11-25"
     }
    ]
