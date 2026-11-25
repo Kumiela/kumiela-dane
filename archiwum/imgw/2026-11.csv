@@ -2435,3 +2435,13 @@ czas_utc,zrodlo,stacja,wielkosc,wartosc,jednostka
 2026-11-25T19:00:00Z,imgw,254190190,wiatr_kierunek,165,deg
 2026-11-25T19:00:00Z,imgw,254190190,wilgotnosc,97.4,%
 2026-11-25T18:50:00Z,imgw,254190190,opad_10min,0,mm
+2026-11-25T19:20:00Z,imgw,154190060,stan_wody,562.0,cm
+2026-11-25T19:20:00Z,imgw,154190050,stan_wody,558.0,cm
+2026-11-25T19:20:00Z,imgw,154190090,stan_wody,543.0,cm
+2026-11-25T19:10:00Z,imgw,254190190,temp_powietrza,-2.5,C
+2026-11-25T19:10:00Z,imgw,254190190,temp_gruntu,-2.6,C
+2026-11-25T19:10:00Z,imgw,254190190,wiatr_sredni,0.9,m/s
+2026-11-25T19:10:00Z,imgw,254190190,wiatr_max,1.5,m/s
+2026-11-25T19:10:00Z,imgw,254190190,wiatr_kierunek,174,deg
+2026-11-25T19:10:00Z,imgw,254190190,wilgotnosc,97.5,%
+2026-11-25T19:10:00Z,imgw,254190190,opad_10min,0,mm
