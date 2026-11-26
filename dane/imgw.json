@@ -1,9 +1,9 @@
 {
- "pobrano": "2026-11-26T02:08:41Z",
+ "pobrano": "2026-11-26T02:22:49Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-26T02:00:00Z",
+   "czas": "2026-11-26T02:10:00Z",
    "stan_cm": 557.0,
    "ostrz": 590.0,
    "alarm": 610.0
@@ -17,15 +17,15 @@
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-26T02:00:00Z",
+   "czas": "2026-11-26T02:10:00Z",
    "stan_cm": 554.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-26T02:00:00Z",
-   "stan_cm": 540.0,
+   "czas": "2026-11-26T02:10:00Z",
+   "stan_cm": 539.0,
    "ostrz": 590.0,
    "alarm": 630.0
   }
