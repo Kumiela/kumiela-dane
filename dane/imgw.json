@@ -1,30 +1,30 @@
 {
- "pobrano": "2026-11-26T13:16:11Z",
+ "pobrano": "2026-11-26T13:30:19Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-26T13:00:00Z",
-   "stan_cm": 553.0,
+   "czas": "2026-11-26T13:20:00Z",
+   "stan_cm": 551.0,
    "ostrz": 590.0,
    "alarm": 610.0
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-26T13:00:00Z",
+   "czas": "2026-11-26T13:20:00Z",
    "stan_cm": 602.0,
    "ostrz": null,
    "alarm": null
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-26T13:00:00Z",
-   "stan_cm": 548.0,
+   "czas": "2026-11-26T13:20:00Z",
+   "stan_cm": 549.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-26T13:00:00Z",
+   "czas": "2026-11-26T13:20:00Z",
    "stan_cm": 535.0,
    "ostrz": 590.0,
    "alarm": 630.0
@@ -37,19 +37,19 @@
   "opad_24h": 0.0,
   "opad_1h": 0.0,
   "opad_czas": "2026-11-26T13:00:00Z",
-  "temp_powietrza": "-0.6",
-  "temp_powietrza_czas": "2026-11-26T12:10:00Z",
-  "temp_gruntu": "-1.5",
-  "temp_gruntu_czas": "2026-11-26T13:00:00Z",
-  "wiatr_sredni": "0.9",
-  "wiatr_sredni_czas": "2026-11-26T13:00:00Z",
-  "wiatr_max": "1.5",
-  "wiatr_max_czas": "2026-11-26T13:00:00Z",
-  "wiatr_kierunek": "270",
-  "wiatr_kierunek_czas": "2026-11-26T13:00:00Z",
-  "wilgotnosc": "98",
-  "wilgotnosc_czas": "2026-11-26T13:00:00Z",
+  "temp_powietrza": "0",
+  "temp_powietrza_czas": "2026-11-26T13:10:00Z",
+  "temp_gruntu": "-1.4",
+  "temp_gruntu_czas": "2026-11-26T13:10:00Z",
+  "wiatr_sredni": "1.2",
+  "wiatr_sredni_czas": "2026-11-26T13:10:00Z",
+  "wiatr_max": "1.6",
+  "wiatr_max_czas": "2026-11-26T13:10:00Z",
+  "wiatr_kierunek": "230",
+  "wiatr_kierunek_czas": "2026-11-26T13:10:00Z",
+  "wilgotnosc": "97.9",
+  "wilgotnosc_czas": "2026-11-26T13:10:00Z",
   "opad_10min": "0",
-  "opad_10min_czas": "2026-11-26T12:50:00Z"
+  "opad_10min_czas": "2026-11-26T13:10:00Z"
  }
 }
