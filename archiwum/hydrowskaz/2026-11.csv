@@ -5780,3 +5780,14 @@ czas_utc,stacja_id,stacja,czujnik,wartosc,jednostka
 2026-11-26T16:45Z,137,ATSHM09 - Mazurska,Poziom wody,0.92,m
 2026-11-26T16:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody,0.2,m
 2026-11-26T16:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody w m n.p.m.,4.04,m n.p.m
+2026-11-26T16:45Z,139,ATSHM02 - Dojazdowa,Poziom wody,5.94,m
+2026-11-26T16:45Z,130,ATSHM03 - Most Unii,Poziom wody,5.7,m
+2026-11-26T16:45Z,131,ATSHM04 - Nowakowo - Batorowo,Poziom wody,5.63,m
+2026-11-26T16:45Z,132,ATSHM06 - Marymoncka,Poziom wody,1.06,m
+2026-11-26T16:45Z,133,ATSHM07 - Górnośląska,Poziom wody,0.6,m
+2026-11-26T16:45Z,136,ATSHM08 - Piaski,Poziom wody,5.48,m
+2026-11-26T16:45Z,136,ATSHM08 - Piaski,Prędkość wiatru,5.8,m/s
+2026-11-26T16:45Z,136,ATSHM08 - Piaski,Kierunek wiatru,62.1,°
+2026-11-26T16:45Z,135,ATSHM10 - Ujście,Poziom wody,5.67,m
+2026-11-26T16:45Z,135,ATSHM10 - Ujście,Prędkość wiatru,2.5,m/s
+2026-11-26T16:45Z,135,ATSHM10 - Ujście,Kierunek wiatru,188.6,°
