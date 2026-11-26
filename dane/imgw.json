@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-26T05:14:59Z",
+ "pobrano": "2026-11-26T05:15:13Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
@@ -34,21 +34,21 @@
   "opad_3h": 0.0,
   "opad_6h": 0.0,
   "opad_12h": 0.0,
-  "opad_24h": 1.9,
+  "opad_24h": 0.0,
   "opad_1h": 0.0,
   "opad_czas": "2026-11-26T05:00:00Z",
   "temp_powietrza": "-3",
   "temp_powietrza_czas": "2026-11-26T04:10:00Z",
   "temp_gruntu": "-2.1",
-  "temp_gruntu_czas": "2026-11-26T04:50:00Z",
-  "wiatr_sredni": "0.8",
-  "wiatr_sredni_czas": "2026-11-26T04:50:00Z",
-  "wiatr_max": "1.6",
-  "wiatr_max_czas": "2026-11-26T04:50:00Z",
-  "wiatr_kierunek": "212",
-  "wiatr_kierunek_czas": "2026-11-26T04:50:00Z",
-  "wilgotnosc": "96.5",
-  "wilgotnosc_czas": "2026-11-26T04:50:00Z",
+  "temp_gruntu_czas": "2026-11-26T05:00:00Z",
+  "wiatr_sredni": "1",
+  "wiatr_sredni_czas": "2026-11-26T05:00:00Z",
+  "wiatr_max": "2.5",
+  "wiatr_max_czas": "2026-11-26T05:00:00Z",
+  "wiatr_kierunek": "257",
+  "wiatr_kierunek_czas": "2026-11-26T05:00:00Z",
+  "wilgotnosc": "96.4",
+  "wilgotnosc_czas": "2026-11-26T05:00:00Z",
   "opad_10min": "0",
   "opad_10min_czas": "2026-11-26T04:50:00Z"
  }
