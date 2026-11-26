@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-26T16:09:10Z",
+ "pobrano": "2026-11-26T16:09:22Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-26",
@@ -159,13 +159,6 @@
    "ikona": 0,
    "sensory": [
     {
-     "czujnik": "Kierunek wiatru",
-     "jednostka": "°",
-     "value": 61.2,
-     "czas": "2026-11-26 17:00",
-     "data": "2026-11-26"
-    },
-    {
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 5.45,
@@ -176,6 +169,13 @@
      "czujnik": "Prędkość wiatru",
      "jednostka": "m/s",
      "value": 5.8,
+     "czas": "2026-11-26 17:00",
+     "data": "2026-11-26"
+    },
+    {
+     "czujnik": "Kierunek wiatru",
+     "jednostka": "°",
+     "value": 61.2,
      "czas": "2026-11-26 17:00",
      "data": "2026-11-26"
     }

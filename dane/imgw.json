@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-26T16:09:10Z",
+ "pobrano": "2026-11-26T16:09:22Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
@@ -36,7 +36,7 @@
   "opad_12h": 0.0,
   "opad_24h": 0.0,
   "opad_1h": 0.0,
-  "opad_czas": "2026-11-26T15:00:00Z",
+  "opad_czas": "2026-11-26T16:00:00Z",
   "temp_powietrza": "-1",
   "temp_powietrza_czas": "2026-11-26T15:10:00Z",
   "temp_gruntu": "-1.5",

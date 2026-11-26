@@ -3371,3 +3371,8 @@ czas_utc,zrodlo,stacja,wielkosc,wartosc,jednostka
 2026-11-26T15:50:00Z,imgw,254190190,wiatr_kierunek,359,deg
 2026-11-26T15:50:00Z,imgw,254190190,wilgotnosc,98.4,%
 2026-11-26T15:50:00Z,imgw,254190190,opad_10min,0,mm
+2026-11-26T16:00:00Z,imgw,254190190,opad_3h,0.0,mm
+2026-11-26T16:00:00Z,imgw,254190190,opad_6h,0.0,mm
+2026-11-26T16:00:00Z,imgw,254190190,opad_12h,0.0,mm
+2026-11-26T16:00:00Z,imgw,254190190,opad_24h,0.0,mm
+2026-11-26T16:00:00Z,imgw,254190190,opad_1h,0.0,mm
