@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-27T17:18:19Z",
+ "pobrano": "2026-11-27T17:18:32Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-27",
@@ -94,13 +94,6 @@
      "data": "2026-11-27"
     },
     {
-     "czujnik": "Poziom wody w m n.p.m",
-     "jednostka": "m n.p.m",
-     "value": 115.63,
-     "czas": "2026-11-27 18:00",
-     "data": "2026-11-27"
-    },
-    {
      "czujnik": "Intensywność opadu",
      "jednostka": "mm/h",
      "value": 0,
@@ -111,6 +104,13 @@
      "czujnik": "Suma opadu",
      "jednostka": "mm",
      "value": 493.01,
+     "czas": "2026-11-27 18:00",
+     "data": "2026-11-27"
+    },
+    {
+     "czujnik": "Poziom wody w m n.p.m",
+     "jednostka": "m n.p.m",
+     "value": 115.63,
      "czas": "2026-11-27 18:00",
      "data": "2026-11-27"
     }
