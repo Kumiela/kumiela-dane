@@ -1,16 +1,16 @@
 {
- "pobrano": "2026-11-27T04:06:10Z",
+ "pobrano": "2026-11-27T04:06:30Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-27T03:50:00Z",
+   "czas": "2026-11-27T04:00:00Z",
    "stan_cm": 556.0,
    "ostrz": 590.0,
    "alarm": 610.0
   },
   "154190080": {
    "nazwa": "Żukowo (jez. Drużno)",
-   "czas": "2026-11-27T03:00:00Z",
+   "czas": "2026-11-27T04:00:00Z",
    "stan_cm": 599.0,
    "ostrz": null,
    "alarm": null
