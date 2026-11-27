@@ -4430,3 +4430,4 @@ czas_utc,zrodlo,stacja,wielkosc,wartosc,jednostka
 2026-11-27T14:40:00Z,imgw,254190190,wiatr_kierunek,11,deg
 2026-11-27T14:40:00Z,imgw,254190190,wilgotnosc,89.6,%
 2026-11-27T14:30:00Z,imgw,254190190,opad_10min,0,mm
+2026-11-27T14:40:00Z,imgw,154190090,stan_wody,536.0,cm
