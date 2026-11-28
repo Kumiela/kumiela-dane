@@ -9003,3 +9003,14 @@ czas_utc,stacja_id,stacja,czujnik,wartosc,jednostka
 2026-11-28T08:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody,0.15,m
 2026-11-28T08:45Z,338,ATSHM11 - Związku Jaszczurczego,Temperatura czujnika,-2,°C
 2026-11-28T08:45Z,338,ATSHM11 - Związku Jaszczurczego,Poziom wody w m n.p.m.,3.99,m n.p.m
+2026-11-28T08:46Z,139,ATSHM02 - Dojazdowa,Poziom wody,5.92,m
+2026-11-28T08:46Z,130,ATSHM03 - Most Unii,Poziom wody,5.49,m
+2026-11-28T08:45Z,131,ATSHM04 - Nowakowo - Batorowo,Poziom wody,5.41,m
+2026-11-28T08:45Z,132,ATSHM06 - Marymoncka,Poziom wody,0.93,m
+2026-11-28T08:46Z,133,ATSHM07 - Górnośląska,Poziom wody,0.51,m
+2026-11-28T08:46Z,136,ATSHM08 - Piaski,Poziom wody,5.29,m
+2026-11-28T08:46Z,136,ATSHM08 - Piaski,Prędkość wiatru,5.8,m/s
+2026-11-28T08:46Z,136,ATSHM08 - Piaski,Kierunek wiatru,100.9,°
+2026-11-28T08:45Z,135,ATSHM10 - Ujście,Poziom wody,5.44,m
+2026-11-28T08:45Z,135,ATSHM10 - Ujście,Prędkość wiatru,6.3,m/s
+2026-11-28T08:45Z,135,ATSHM10 - Ujście,Kierunek wiatru,290.2,°
