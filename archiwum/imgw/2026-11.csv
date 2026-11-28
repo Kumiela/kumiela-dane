@@ -5680,3 +5680,4 @@ czas_utc,zrodlo,stacja,wielkosc,wartosc,jednostka
 2026-11-28T18:00:00Z,imgw,254190190,wiatr_kierunek,134,deg
 2026-11-28T18:00:00Z,imgw,254190190,wilgotnosc,77.4,%
 2026-11-28T17:50:00Z,imgw,254190190,opad_10min,0,mm
+2026-11-28T18:10:00Z,imgw,154190050,stan_wody,533.0,cm

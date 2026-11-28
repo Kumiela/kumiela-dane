@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-28T18:17:34Z",
+ "pobrano": "2026-11-28T18:17:49Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
@@ -17,7 +17,7 @@
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-28T18:00:00Z",
+   "czas": "2026-11-28T18:10:00Z",
    "stan_cm": 533.0,
    "ostrz": 590.0,
    "alarm": 630.0
