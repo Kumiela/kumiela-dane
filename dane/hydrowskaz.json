@@ -1,5 +1,5 @@
 {
- "pobrano": "2026-11-28T11:40:34Z",
+ "pobrano": "2026-11-28T11:54:41Z",
  "zrodlo": "https://elblag.hydrowskaz.pl/",
  "Stations": {
   "teraz": "2026-11-28",
@@ -15,14 +15,14 @@
      "czujnik": "Intensywnosc opadu",
      "jednostka": "mm/h",
      "value": 0,
-     "czas": "2026-11-28 12:30",
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     },
     {
      "czujnik": "Suma opadu",
      "jednostka": "mm",
      "value": 28,
-     "czas": "2026-11-28 12:30",
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     }
    ]
@@ -89,29 +89,29 @@
     {
      "czujnik": "Poziom wody",
      "jednostka": "m",
-     "value": 1.97,
-     "czas": "2026-11-28 12:30",
+     "value": 1.96,
+     "czas": "2026-11-28 12:45",
+     "data": "2026-11-28"
+    },
+    {
+     "czujnik": "Poziom wody w m n.p.m",
+     "jednostka": "m n.p.m",
+     "value": 115.56,
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     },
     {
      "czujnik": "Suma opadu",
      "jednostka": "mm",
      "value": 493.01,
-     "czas": "2026-11-28 12:30",
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     },
     {
      "czujnik": "Intensywność opadu",
      "jednostka": "mm/h",
      "value": 0,
-     "czas": "2026-11-28 12:30",
-     "data": "2026-11-28"
-    },
-    {
-     "czujnik": "Poziom wody w m n.p.m",
-     "jednostka": "m n.p.m",
-     "value": 115.57,
-     "czas": "2026-11-28 12:30",
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     }
    ]
@@ -193,7 +193,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 0.85,
-     "czas": "2026-11-28 12:30",
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     }
    ]
@@ -241,7 +241,7 @@
      "czujnik": "Poziom wody",
      "jednostka": "m",
      "value": 0.15,
-     "czas": "2026-11-28 12:30",
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     },
     {
@@ -255,7 +255,7 @@
      "czujnik": "Poziom wody w m n.p.m.",
      "jednostka": "m n.p.m",
      "value": 3.99,
-     "czas": "2026-11-28 12:30",
+     "czas": "2026-11-28 12:45",
      "data": "2026-11-28"
     }
    ]
