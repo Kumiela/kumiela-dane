@@ -1,9 +1,9 @@
 {
- "pobrano": "2026-11-28T03:48:28Z",
+ "pobrano": "2026-11-28T04:02:36Z",
  "hydro": {
   "154190060": {
    "nazwa": "Elbląg (rz. Elbląg)",
-   "czas": "2026-11-28T03:30:00Z",
+   "czas": "2026-11-28T03:50:00Z",
    "stan_cm": 548.0,
    "ostrz": 590.0,
    "alarm": 610.0
@@ -17,14 +17,14 @@
   },
   "154190050": {
    "nazwa": "Nowe Batorowo (Zalew)",
-   "czas": "2026-11-28T03:40:00Z",
+   "czas": "2026-11-28T03:50:00Z",
    "stan_cm": 546.0,
    "ostrz": 590.0,
    "alarm": 630.0
   },
   "154190090": {
    "nazwa": "Tolkmicko (Zalew)",
-   "czas": "2026-11-28T03:40:00Z",
+   "czas": "2026-11-28T03:50:00Z",
    "stan_cm": 530.0,
    "ostrz": 590.0,
    "alarm": 630.0
@@ -39,17 +39,17 @@
   "opad_czas": "2026-11-28T03:00:00Z",
   "temp_powietrza": "-6.5",
   "temp_powietrza_czas": "2026-11-28T03:10:00Z",
-  "temp_gruntu": "-8.2",
-  "temp_gruntu_czas": "2026-11-28T03:30:00Z",
-  "wiatr_sredni": "1.1",
-  "wiatr_sredni_czas": "2026-11-28T03:30:00Z",
-  "wiatr_max": "2.6",
-  "wiatr_max_czas": "2026-11-28T03:30:00Z",
-  "wiatr_kierunek": "81",
-  "wiatr_kierunek_czas": "2026-11-28T03:30:00Z",
-  "wilgotnosc": "92.2",
-  "wilgotnosc_czas": "2026-11-28T03:30:00Z",
+  "temp_gruntu": "-5.9",
+  "temp_gruntu_czas": "2026-11-28T03:40:00Z",
+  "wiatr_sredni": "1.9",
+  "wiatr_sredni_czas": "2026-11-28T03:40:00Z",
+  "wiatr_max": "3.1",
+  "wiatr_max_czas": "2026-11-28T03:40:00Z",
+  "wiatr_kierunek": "91",
+  "wiatr_kierunek_czas": "2026-11-28T03:40:00Z",
+  "wilgotnosc": "93.3",
+  "wilgotnosc_czas": "2026-11-28T03:40:00Z",
   "opad_10min": "0",
-  "opad_10min_czas": "2026-11-28T03:30:00Z"
+  "opad_10min_czas": "2026-11-28T03:40:00Z"
  }
 }
